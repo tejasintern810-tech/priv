@@ -1,0 +1,33 @@
+======================================================================
+EL Defect Classification Evaluation
+======================================================================
+
+Total Test Images : 433
+
+Overall Metrics
+------------------------------
+Accuracy       : 82.68%
+Precision      : 85.08%
+Recall         : 82.68%
+F1 Score       : 81.45%
+Top-3 Accuracy : 89.84%
+Top-5 Accuracy : 94.00%
+
+Average Timings
+------------------------------
+Feature Extraction : 384.68 ms
+FAISS Search       : 4.28 ms
+Voting             : 0.10 ms
+Total              : 389.70 ms
+
+Per Class Accuracy
+------------------------------
+Black spots               :  98.18%
+Dark EL                   :  88.89%
+Dark edge                 :  98.33%
+Dark patches              :  68.33%
+Good EL                   :  96.72%
+Manual handling           :  98.21%
+Print Misalignment        :   8.33%
+Scratch                   :  68.33%
+finger misalignment       :  62.75%

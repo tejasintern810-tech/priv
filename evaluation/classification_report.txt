@@ -1,0 +1,15 @@
+                     precision    recall  f1-score   support
+
+        Black spots     0.9643    0.9818    0.9730        55
+            Dark EL     1.0000    0.8889    0.9412        18
+          Dark edge     0.7564    0.9833    0.8551        60
+       Dark patches     0.8913    0.6833    0.7736        60
+            Good EL     0.6860    0.9672    0.8027        61
+    Manual handling     0.7971    0.9821    0.8800        56
+ Print Misalignment     1.0000    0.0833    0.1538        12
+            Scratch     0.9318    0.6833    0.7885        60
+finger misalignment     0.8649    0.6275    0.7273        51
+
+           accuracy                         0.8268       433
+          macro avg     0.8769    0.7645    0.7661       433
+       weighted avg     0.8508    0.8268    0.8145       433

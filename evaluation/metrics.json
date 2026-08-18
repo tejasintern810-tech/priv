@@ -1,0 +1,23 @@
+{
+    "accuracy": 0.8268,
+    "precision": 0.8508,
+    "recall": 0.8268,
+    "f1_score": 0.8145,
+    "top3_accuracy": 0.8984,
+    "top5_accuracy": 0.94,
+    "average_feature_time_ms": 384.68,
+    "average_search_time_ms": 4.28,
+    "average_vote_time_ms": 0.1,
+    "average_total_time_ms": 389.7,
+    "per_class_accuracy": {
+        "Black spots": 98.18,
+        "Dark EL": 88.89,
+        "Dark edge": 98.33,
+        "Dark patches": 68.33,
+        "Good EL": 96.72,
+        "Manual handling": 98.21,
+        "Print Misalignment": 8.33,
+        "Scratch": 68.33,
+        "finger misalignment": 62.75
+    }
+}
